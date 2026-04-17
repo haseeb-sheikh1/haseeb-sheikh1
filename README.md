@@ -1,5 +1,5 @@
 # Haseeb Sheikh
-**Software Engineering Student | Frontend Developer | Cybersecurity Enthusiast**
+**Software Engineering Student | Frontend Developer | Backend Development Focus**
 
 I am a 4th-semester Software Engineering student specializing in building secure, scalable applications and integrating hardware with software solutions. I excel at solving complex logical challenges and architecting efficient, user-centric systems.
 
