@@ -42,7 +42,7 @@ I am a 4th-semester Software Engineering student specializing in building secure
 
 ---
 
-### 📊 GitHub Activity
+### GitHub Activity
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=haseeb-sheikh1&show_icons=true&theme=dracula&hide_border=true&count_private=true" alt="Haseeb's GitHub Stats" width="48%" />
